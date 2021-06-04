@@ -1,5 +1,6 @@
 %Titulo: 1.10 Calculo de integrales definidas basicas (ejercicio 2).
 %Autor: Rafael Alejandro Barajas Urrutia.
+%Grupo: 3202.
 %Fecha: 3 de junio de 2021.
 
 %Instalar paquete.
@@ -29,7 +30,7 @@ disp('')
 disp('          v(t)= -1.197 t^2 + 58.67')
 disp('')
 disp('donde v esta en pies por segundo, t esta en se-')
-disp('gundos y 0<=t<=7 .¿Que distancia (en mts) reco-')
+disp('gundos y 0<=t<=7 .Â¿Que distancia (en mts) reco-')
 disp('rrio el vehiculo mientras el conductor estaba')
 disp('frenando?')
 disp('')
